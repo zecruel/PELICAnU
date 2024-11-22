@@ -1,0 +1,1 @@
+start .\cadzinho.exe --pref .\pref\
